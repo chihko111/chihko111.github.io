@@ -1,0 +1,148 @@
+div,p,ul,ol,li{
+    margin: 0;
+}
+header{
+    display: block;
+margin: 0 auto;
+max-width: 100%;
+background: black;
+color: white;
+
+}
+ol{ float: right;
+    display:flex;
+    max-width: 100%;
+    background: forestgreen;
+    list-style: none;
+    padding-top: 100px;
+    padding-right: 400px;
+    text-align: right;
+}
+.one{
+    border-style: solid;
+    width: 5px;
+    padding: 5px;
+    margin-left: 5px;
+    background-color: bisque;
+    border-width: 1px;
+}
+.two{
+    border-style: solid;
+    width: 5px;
+    padding: 5px;
+    margin-left: 5px;
+    background-color: bisque;
+    border-width: 1px;
+}
+.three{
+    border-style: solid;
+    width: 5px;
+    padding: 5px;
+    margin-left: 5px;
+    background-color: bisque;
+    border-width: 1px;
+}
+.fore{
+    border-style: solid;
+    width: 5px;
+    padding: 5px;
+    margin-left: 5px;
+    background-color: bisque;
+    border-width: 1px;
+}
+main{
+    height: 500px;
+}
+footer{
+    display: block;
+    background: gray;
+    height: 50px;
+    color: white;
+    text-align: center;
+    line-height:50px;
+}
+.abc{
+    color: white;
+    padding-left: 1300px;
+    display:flex;
+    
+}
+h4{
+    margin: 0px;
+    padding-left: 300px;
+}
+.a{
+    padding-left:10px;
+}
+.b{
+    padding-left:10px;
+}
+.c{
+    padding-left:10px; 
+}
+
+main,ul{
+    list-style: none;
+    display: inline;
+    
+}
+.banner{
+    background-color: forestgreen;
+    padding: 1%;
+    height: 130px;
+    
+}
+.div1{
+    border-style: solid;
+    width: 50px;
+    padding: 6px;
+    margin-top: 5px;
+    background-color: bisque;
+    border-width: 1px;
+}
+.div2{
+    border-style: solid;
+    width: 64px;
+    padding: 6px;
+    margin-top: 5px;
+    background-color: bisque;
+    border-width: 1px;
+}
+.div3{
+    border-style: solid;
+    width: 55px;
+    padding: 6px;
+    margin-top: 5px;   
+    background-color: bisque;
+    border-width: 1px;
+}
+.banner2{
+    display:flex;
+  padding-left: 300px;
+} 
+
+p {
+    box-sizing: border-box;
+    display: inline-block;
+}
+article p{
+    border: 1px solid gray;
+    height: 150px;
+    margin: 5px;
+    text-align: center;
+    padding-top: 60px;  
+    flex: 1;
+     
+}
+.article1,.article2,.article3{
+display: flex;
+justify-content: space-between;
+}
+article{
+    
+    padding-left: 300px;
+    width: 1200px;
+   
+}
+
+
